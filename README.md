@@ -74,10 +74,9 @@ I've spent the last few years designing prompting systems for large language mod
 | Qualification | Institution | Year |
 |---|---|---|
 | Advanced Studies in Geopolitics and Security Studies | Politics Faculty | 2023 – 2024 |
-| C2 English Certification | Babeș-Bolyai University (UBB) | — |
-| EPAM Certification | EPAM | — |
+| C2 English Certification | Babeș-Bolyai University (UBB) | 2023 |
 | QA & Automation Certification | FastTrack IT | 2017 |
-| Salesforce Administration Certification | Google Nest Training Program | — |
+| Salesforce Administration Certification | Google Nest Training Program | 2019 |
 | IBM Maximo CRM/ERP Certification | Nokia Factory Training Program, Cluj | 2017 |
 | Certificate of Appreciation | US Marine Corps Black Sea Rotational Forces | 2018 – 2019 |
 
